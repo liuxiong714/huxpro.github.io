@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "就是无耻"
-subtitle: 'Using Vim with non-english input method'
 author: "Liu Xiong"
-header-style:text
+header-style: text
 tags:
   - 生活
 ---
