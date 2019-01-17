@@ -1,6 +1,6 @@
 # Site settings
 title: Liu Xiong Blog
-description: "个人学习笔记，关于分子进化，基因组，微生物 | Molecular Evolution & Genome，Microbiolgy | 这里是 刘雄 的个人博客，与你一起学习思考。"
+description: "Molecular Evolution & Genome，Microbiolgy "
 url: "https://liuxiong714.github.io"              # your host, for absolute URL
 
 
@@ -12,10 +12,6 @@ RSS: false
 weibo_username:     youranersheng
 zhihu_username:     liux_bioinfor
 github_username:    liuxiong714
-twitter_username:   
-#facebook_username:  
-#linkedin_username:  
-
 
 
 # Build settings
