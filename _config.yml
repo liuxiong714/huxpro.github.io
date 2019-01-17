@@ -9,8 +9,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     prophage
-zhihu_username:     youranersheng
+weibo_username:     youranersheng
+zhihu_username:     liux_bioinfor
 github_username:    liuxiong714
 twitter_username:   
 #facebook_username:  
