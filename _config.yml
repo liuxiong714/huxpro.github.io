@@ -51,7 +51,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: 
+disqus_username: liuxiong
 
 # Netease settings
 netease_comment: false
@@ -61,6 +61,10 @@ netease_comment: false
 # Analytics settings
 # Baidu Analytics 
 # ba_track_id: [your track id]
+
+# Google Analytics
+ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_domain: liuxiong714.github.io
 
 
 
